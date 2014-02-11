@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Format SQL",
+		"HtmlTidy",
+		"Package Control",
+		"Sublime-Text-2-Syntax-Coloring-for-Visual-FoxPro",
+		"sublimetext_indentxml",
+		"Theme - Nil",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"VBScript"
+	],
+	"repositories":
+	[
+		"https://github.com/alek-sys/sublimetext_indentxml"
+	],
+	"repository_channels":
+	[
+	]
+}

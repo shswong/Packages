@@ -1,0 +1,9 @@
+[
+{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+{ "keys": ["ctrl+alt+t"], "command": "html_tidy"},
+{ "keys": ["ctrl+shift+x"], "command": "tidy_xml" },
+{ "keys": ["ctrl+shift+q"], "command": "asp_comment_toggle_comment" },
+{ "keys": ["ctrl+shift+alt+q"], "command": "format_sql" },
+{ "keys": ["alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+{ "keys": ["ctrl+shift+alt+s"], "command": "save_all" }
+]
