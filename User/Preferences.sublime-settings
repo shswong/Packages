@@ -2,6 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 0,
 	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"draw_indent_guides": false,
 	"font_face": "Source Code Pro Medium",
 	"font_options":
@@ -50,8 +51,7 @@
 	"show_tab_close_buttons": false,
 	"smart_indent": true,
 	"tab_size": 2,
-	"theme": "Centurion.sublime-theme",
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"theme": "Nil.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
